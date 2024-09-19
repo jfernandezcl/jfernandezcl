@@ -23,4 +23,4 @@ Resumen de contribuciones de Mi GitHub</h3>
 
 [-[GitHub Streak]'(https://github-readme-streak-stats.herokuapp.com?jfernandezcl=cycos&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide-bordere=true)](https://git.io/streak-stats)
 
-*[Akhil's GitHub stats](https://github-readme-stats.vercel.vercel.app/api?jfernandezcl=cycosad&hide-border=true&show-icons=true&b.color=151515&title-color=fb4362&i-concolor=fb4362&text-bold=false&text-color=9e9e9e9e9e9e9e9e)
+*[jfernandezcl  GitHub stat(https://github-readme-stats.vercel.vercel.app/api?jfernandezcl=cycosad&hide-border=true&show-icons=true&b.color=151515&title-color=fb4362&i-concolor=fb4362&text-bold=false&text-color=9e9e9e9e9e9e9e9e)
