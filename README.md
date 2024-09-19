@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm Javier Fernández
 
+[](https://komarev.com/ghpvc/?jfernandezcl=cycosad&color=fb4362)
+
 <h3>Cuando sea código, confío en el h3
 * P *  
 imgalt"html5" src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /  
@@ -16,3 +18,9 @@ img"img alt = "github actions" src = "https://img.shields.io/badge/-Github-Actio
 imgalt"Google Cloud Platform" src = "https://img.shields.io/badge/-Google-Cloud-Platform-1a73e8?style=flat-square&logo=google-cloud&logo=Blob&logo=white" /-  
 img"g alt" "git" src = "https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /  
 * * *
+
+Resumen de contribuciones de Mi GitHub</h3>
+
+[-[GitHub Streak]'(https://github-readme-streak-stats.herokuapp.com?jfernandezcl=cycos&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide-bordere=true)](https://git.io/streak-stats)
+
+*[Akhil's GitHub stats](https://github-readme-stats.vercel.vercel.app/api?jfernandezcl=cycosad&hide-border=true&show-icons=true&b.color=151515&title-color=fb4362&i-concolor=fb4362&text-bold=false&text-color=9e9e9e9e9e9e9e9e)
