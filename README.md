@@ -1,8 +1,6 @@
 ### 👋 Hi there, I'm Javier Fernández
 
-### 👋 Hi there, I'm Javier Fernández
-
-<p>
+<p align="center">
   <!-- Lenguajes -->
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -38,7 +36,27 @@
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
 </p>
 
-<h3>My GitHub contributions summary</h3>
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jfernandezcl&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-![Javier Fernández GitHub stats](https://github-readme-stats.vercel.app/api?username=jfernandezcl&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+### 📊 GitHub Contributions Summary
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jfernandezcl&show_icons=true&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e" 
+    alt="Javier's GitHub Stats" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=jfernandezcl&theme=dark&hide_border=true&background=151515&ring=fb4362&currStreakLabel=fb4362&currStreakNum=fb4362" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfernandezcl&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e" 
+    alt="Top Languages" 
+  />
+</p>
