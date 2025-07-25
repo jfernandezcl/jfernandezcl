@@ -42,21 +42,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=jfernandezcl&show_icons=true&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e" 
-    alt="Javier's GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=jfernandezcl&theme=dark&hide_border=true&background=151515&ring=fb4362&currStreakLabel=fb4362&currStreakNum=fb4362" 
     alt="GitHub Streak" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfernandezcl&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e" 
-    alt="Top Languages" 
   />
 </p>
