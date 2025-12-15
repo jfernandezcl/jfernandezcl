@@ -50,10 +50,7 @@
 ### 📊 GitHub Contributions Summary
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=jfernandezcl&theme=dark&hide_border=true&background=151515&ring=fb4362&currStreakLabel=fb4362&currStreakNum=fb4362" 
-    alt="GitHub Streak" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jfernandezcl&show_icons=true&theme=dark" alt="Javier's GitHub Stats" />
 </p>
 
 ---
