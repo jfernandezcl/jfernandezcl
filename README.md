@@ -50,7 +50,7 @@
 ### 📊 GitHub Contributions Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfernandezcl&show_icons=true&theme=dark" alt="Javier's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jfernandezcl&show_icons=true&count_private=true&hide_title=false&theme=dark" alt="Javier's GitHub Stats" />
 </p>
 
 ---
