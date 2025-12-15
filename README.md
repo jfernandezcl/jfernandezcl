@@ -58,8 +58,16 @@
 ### 🔥 Top Repositories
 
 <p align="center">
-  <a href="https://github.com/jfernandezcl/personal-finance">Personal Finance</a> |
-  <a href="https://github.com/jfernandezcl/task-tracker">Task Tracker</a> |
-  <a href="https://github.com/jfernandezcl/QRmenu">QRmenu</a> |
-  <a href="https://github.com/jfernandezcl/pokedex">Pokedex</a>
+  <a href="https://github.com/jfernandezcl/personal-finance">
+    <img alt="Personal Finance" src="https://img.shields.io/badge/-Personal%20Finance-0a66c2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jfernandezcl/task-tracker">
+    <img alt="Task Tracker" src="https://img.shields.io/badge/-Task%20Tracker-0a66c2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jfernandezcl/QRmenu">
+    <img alt="QRmenu" src="https://img.shields.io/badge/-QRmenu-0a66c2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jfernandezcl/pokedex">
+    <img alt="Pokedex" src="https://img.shields.io/badge/-Pokedex-0a66c2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
